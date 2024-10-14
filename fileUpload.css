@@ -1,0 +1,31 @@
+.file{
+    background-color: rgb(234, 161, 161);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    align-items: center;
+    padding: 100px;
+    border-radius: 20px;
+    font-size: 20px;
+
+}
+.name{
+    font-size: 40px;
+    
+}
+.file{
+    background-color: rgb(234, 161, 161);
+}
+.heading{
+  
+        font-size: 20px;
+        background-color: bisque;
+        justify-content: space-around;
+        display: flex;
+    
+}
+.dashboard{
+    justify-content: space-around;
+    font-size: 50px;
+    padding-top: 20px;
+}
